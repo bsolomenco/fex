@@ -1,0 +1,15 @@
+<map id="ui/ToolBarWidget.cpp" name="ui/ToolBarWidget.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="227,5,385,31"/>
+<area shape="rect" id="Node000002" href="$ToolBarWidget_8h.html" title="Menu bar widget displayed at the top of the main window." alt="" coords="89,79,217,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="282,33,191,75,189,70,280,28"/>
+<area shape="rect" id="Node000005" href="$ToolTextButton_8h.html" title="Flat text button used inside ToolBarWidget." alt="" coords="241,79,371,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="309,31,309,65,303,65,303,31"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="396,79,464,104"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="327,28,399,69,397,74,325,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,84,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="137,106,75,147,72,142,134,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="108,152,219,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="157,104,162,138,157,139,152,105"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="253,152,359,177"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="309,104,309,138,303,138,303,104"/>
+</map>

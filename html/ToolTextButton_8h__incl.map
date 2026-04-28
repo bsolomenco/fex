@@ -1,0 +1,5 @@
+<map id="ui/ToolTextButton.h" name="ui/ToolTextButton.h">
+<area shape="rect" id="Node000001" title="Flat text button used inside ToolBarWidget." alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="25,79,132,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,31,81,65,76,65,76,31"/>
+</map>

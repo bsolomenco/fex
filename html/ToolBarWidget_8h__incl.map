@@ -1,0 +1,7 @@
+<map id="ui/ToolBarWidget.h" name="ui/ToolBarWidget.h">
+<area shape="rect" id="Node000001" title="Menu bar widget displayed at the top of the main window." alt="" coords="31,5,175,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,84,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,33,65,70,61,67,92,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="108,79,219,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,29,147,66,143,70,111,33"/>
+</map>

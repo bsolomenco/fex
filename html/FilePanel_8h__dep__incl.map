@@ -1,0 +1,18 @@
+<map id="ui/FilePanel.h" name="ui/FilePanel.h">
+<area shape="rect" id="Node000001" title="Single&#45;pane file browser widget used inside the dual&#45;panel layout." alt="" coords="278,5,386,31"/>
+<area shape="rect" id="Node000002" href="$moc__FilePanel_8cpp.html" title=" " alt="" coords="12,79,217,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="291,38,182,81,180,76,289,33"/>
+<area shape="rect" id="Node000004" href="$mainwindow_8h.html" title="Top&#45;level application window — layout and signal wiring only." alt="" coords="274,93,390,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="335,45,335,93,329,93,329,45"/>
+<area shape="rect" id="Node000008" href="$FilePanel_8cpp.html" title=" " alt="" coords="415,93,537,119"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="364,35,458,91,455,95,362,40"/>
+<area shape="rect" id="Node000003" href="$mocs__compilation_8cpp.html" title=" " alt="" coords="5,284,237,324"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="92,146,77,182,72,209,77,235,90,261,106,282,101,286,85,263,72,237,67,209,72,181,87,144"/>
+<area shape="rect" id="Node000005" href="$moc__mainwindow_8cpp.html" title=" " alt="" coords="87,181,299,236"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="307,129,231,183,228,179,304,125"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="Application entry point." alt="" coords="323,196,405,221"/>
+<area shape="poly" id="edge6_Node000004_Node000006" title=" " alt="" coords="342,131,363,195,358,197,337,133"/>
+<area shape="rect" id="Node000007" href="$mainwindow_8cpp.html" title=" " alt="" coords="429,196,560,221"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="364,124,478,194,475,198,361,128"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="167,249,138,286,134,282,162,245"/>
+</map>

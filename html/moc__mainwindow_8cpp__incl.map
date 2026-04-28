@@ -1,0 +1,79 @@
+<map id="build/TotalCommander_autogen/EWIEGA46WW/moc_mainwindow.cpp" name="build/TotalCommander_autogen/EWIEGA46WW/moc_mainwindow.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="1121,5,1333,60"/>
+<area shape="rect" id="Node000002" href="$mainwindow_8h.html" title="Top&#45;level application window — layout and signal wiring only." alt="" coords="707,108,859,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1121,57,856,108,855,103,1120,52"/>
+<area shape="rect" id="Node000026" title=" " alt="" coords="883,108,1031,133"/>
+<area shape="poly" id="edge43_Node000001_Node000026" title=" " alt="" coords="1145,63,1007,106,1005,101,1144,58"/>
+<area shape="rect" id="Node000027" title=" " alt="" coords="1056,108,1211,133"/>
+<area shape="poly" id="edge44_Node000001_Node000027" title=" " alt="" coords="1200,62,1158,100,1154,96,1196,58"/>
+<area shape="rect" id="Node000028" title=" " alt="" coords="1235,108,1407,133"/>
+<area shape="poly" id="edge45_Node000001_Node000028" title=" " alt="" coords="1257,58,1300,97,1297,101,1254,62"/>
+<area shape="rect" id="Node000029" title=" " alt="" coords="1432,108,1509,133"/>
+<area shape="poly" id="edge46_Node000001_Node000029" title=" " alt="" coords="1302,58,1426,101,1424,106,1300,63"/>
+<area shape="rect" id="Node000030" title=" " alt="" coords="1534,108,1711,133"/>
+<area shape="poly" id="edge47_Node000001_Node000030" title=" " alt="" coords="1333,54,1557,102,1556,108,1332,59"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="150,189,266,214"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="707,130,511,149,394,164,278,184,260,188,259,183,277,179,394,159,511,144,706,125"/>
+<area shape="rect" id="Node000004" href="$ToolBarWidget_8h.html" title="Menu bar widget displayed at the top of the main window." alt="" coords="876,189,1020,214"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="808,131,913,180,910,185,806,136"/>
+<area shape="rect" id="Node000007" href="$FilePanel_8h.html" title="Single&#45;pane file browser widget used inside the dual&#45;panel layout." alt="" coords="290,189,398,214"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="707,134,569,154,411,184,396,188,394,183,410,179,568,149,706,129"/>
+<area shape="rect" id="Node000013" href="$CenterBar_8h.html" title="Vertical action bar placed between the two FilePanel widgets." alt="" coords="423,189,537,214"/>
+<area shape="poly" id="edge14_Node000002_Node000013" title=" " alt="" coords="738,136,550,184,535,188,534,183,549,179,736,131"/>
+<area shape="rect" id="Node000014" href="$CommandBar_8h.html" title="Single&#45;line command input bar displayed below the file panels." alt="" coords="713,189,852,214"/>
+<area shape="poly" id="edge18_Node000002_Node000014" title=" " alt="" coords="785,134,785,175,780,175,780,134"/>
+<area shape="rect" id="Node000016" href="$FunctionBar_8h.html" title="F1–F10 shortcut button bar at the bottom of the main window." alt="" coords="562,189,689,214"/>
+<area shape="poly" id="edge23_Node000002_Node000016" title=" " alt="" coords="761,136,662,185,659,180,759,131"/>
+<area shape="rect" id="Node000017" href="$FileOperationController_8h.html" title="Orchestrates copy operations between the UI layer and FileOperations service." alt="" coords="1045,181,1219,221"/>
+<area shape="poly" id="edge27_Node000002_Node000017" title=" " alt="" coords="834,131,1036,176,1035,181,833,136"/>
+<area shape="rect" id="Node000020" href="$CompareController_8h.html" title="Orchestrates directory comparison: runs the service, opens the dialog." alt="" coords="1474,189,1697,214"/>
+<area shape="poly" id="edge31_Node000002_Node000020" title=" " alt="" coords="859,129,871,131,1037,145,1167,154,1297,162,1463,179,1503,184,1502,189,1462,184,1296,167,1167,159,1037,151,870,136,859,135"/>
+<area shape="rect" id="Node000025" href="$SearchController_8h.html" title="Wires a FileSearcher and a SearchDialog, relays navigation to MainWindow." alt="" coords="1243,189,1450,214"/>
+<area shape="poly" id="edge39_Node000002_Node000025" title=" " alt="" coords="859,129,1231,179,1265,184,1264,189,1230,184,858,134"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="905,269,983,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="950,214,948,256,943,255,945,214"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="654,269,765,295"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="914,217,758,268,756,263,912,211"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="381,211,411,219,543,239,647,246,751,252,884,267,891,268,890,273,884,272,751,257,647,251,543,244,410,224,380,217"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="383,211,411,219,641,266,640,271,410,224,382,217"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="297,269,407,295"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="348,214,352,255,347,256,343,214"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="173,269,272,295"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="328,216,253,264,250,260,325,212"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="5,269,149,295"/>
+<area shape="poly" id="edge11_Node000007_Node000010" title=" " alt="" coords="306,217,130,268,129,263,304,211"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="563,269,629,295"/>
+<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="381,211,550,264,549,269,380,217"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="432,269,539,295"/>
+<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="366,212,454,260,451,265,364,217"/>
+<area shape="poly" id="edge15_Node000013_Node000005" title=" " alt="" coords="520,211,550,219,643,235,717,245,884,267,891,268,890,273,884,272,716,250,642,241,549,224,518,217"/>
+<area shape="poly" id="edge16_Node000013_Node000008" title=" " alt="" coords="463,216,384,264,381,260,460,212"/>
+<area shape="poly" id="edge17_Node000013_Node000012" title=" " alt="" coords="483,214,486,255,481,256,478,214"/>
+<area shape="poly" id="edge19_Node000014_Node000005" title=" " alt="" coords="807,212,910,261,907,266,805,216"/>
+<area shape="poly" id="edge20_Node000014_Node000006" title=" " alt="" coords="774,216,732,261,728,257,770,212"/>
+<area shape="poly" id="edge21_Node000014_Node000011" title=" " alt="" coords="757,216,637,267,635,262,754,212"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="789,269,873,295"/>
+<area shape="poly" id="edge22_Node000014_Node000015" title=" " alt="" coords="792,213,819,256,814,259,787,216"/>
+<area shape="poly" id="edge24_Node000016_Node000005" title=" " alt="" coords="672,211,702,219,892,265,891,270,701,224,671,217"/>
+<area shape="poly" id="edge25_Node000016_Node000006" title=" " alt="" coords="640,212,689,258,685,262,636,216"/>
+<area shape="poly" id="edge26_Node000016_Node000012" title=" " alt="" coords="606,217,519,265,517,260,603,212"/>
+<area shape="poly" id="edge30_Node000017_Node000005" title=" " alt="" coords="1088,224,985,266,983,261,1086,219"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="1289,269,1364,295"/>
+<area shape="poly" id="edge28_Node000017_Node000018" title=" " alt="" coords="1180,219,1286,262,1284,267,1178,224"/>
+<area shape="rect" id="Node000019" title=" " alt="" coords="1085,269,1179,295"/>
+<area shape="poly" id="edge29_Node000017_Node000019" title=" " alt="" coords="1135,222,1135,255,1129,255,1129,222"/>
+<area shape="poly" id="edge33_Node000020_Node000005" title=" " alt="" coords="1514,217,1463,224,1202,256,998,278,997,273,1201,250,1462,219,1513,211"/>
+<area shape="poly" id="edge32_Node000020_Node000018" title=" " alt="" coords="1548,217,1378,268,1376,263,1547,211"/>
+<area shape="rect" id="Node000021" title=" " alt="" coords="1417,343,1487,368"/>
+<area shape="poly" id="edge34_Node000020_Node000021" title=" " alt="" coords="1557,217,1517,238,1498,253,1481,271,1466,300,1458,330,1453,328,1461,298,1476,268,1494,249,1514,234,1555,212"/>
+<area shape="rect" id="Node000022" href="$DirectoryComparator_8h.html" title="Data types and algorithm for comparing two directory listings." alt="" coords="1490,269,1718,295"/>
+<area shape="poly" id="edge35_Node000020_Node000022" title=" " alt="" coords="1591,214,1601,255,1595,257,1585,215"/>
+<area shape="poly" id="edge36_Node000022_Node000021" title=" " alt="" coords="1581,297,1490,339,1488,334,1578,292"/>
+<area shape="rect" id="Node000023" title=" " alt="" coords="1543,343,1598,368"/>
+<area shape="poly" id="edge37_Node000022_Node000023" title=" " alt="" coords="1601,296,1584,331,1579,329,1596,294"/>
+<area shape="rect" id="Node000024" title=" " alt="" coords="1623,343,1703,368"/>
+<area shape="poly" id="edge38_Node000022_Node000024" title=" " alt="" coords="1616,293,1647,331,1643,334,1612,297"/>
+<area shape="poly" id="edge41_Node000025_Node000005" title=" " alt="" coords="1289,217,998,273,997,268,1288,211"/>
+<area shape="poly" id="edge40_Node000025_Node000018" title=" " alt="" coords="1346,215,1336,257,1330,255,1341,214"/>
+<area shape="poly" id="edge42_Node000025_Node000021" title=" " alt="" coords="1357,213,1438,330,1434,333,1352,216"/>
+</map>

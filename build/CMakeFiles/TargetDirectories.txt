@@ -1,0 +1,5 @@
+/home/madox/c++/TotalCommander/build/CMakeFiles/TotalCommander.dir
+/home/madox/c++/TotalCommander/build/CMakeFiles/edit_cache.dir
+/home/madox/c++/TotalCommander/build/CMakeFiles/rebuild_cache.dir
+/home/madox/c++/TotalCommander/build/CMakeFiles/TotalCommander_autogen_timestamp_deps.dir
+/home/madox/c++/TotalCommander/build/CMakeFiles/TotalCommander_autogen.dir

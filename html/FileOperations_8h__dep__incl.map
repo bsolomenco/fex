@@ -1,0 +1,7 @@
+<map id="services/FileOperations.h" name="services/FileOperations.h">
+<area shape="rect" id="Node000001" title="Pure filesystem utility functions — no UI, no Qt widgets." alt="" coords="105,5,291,31"/>
+<area shape="rect" id="Node000002" href="$FileOperationController_8cpp.html" title=" " alt="" coords="5,79,180,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,41,120,81,116,76,170,37"/>
+<area shape="rect" id="Node000003" href="$FileOperations_8cpp.html" title=" " alt="" coords="204,86,405,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="226,37,290,84,287,88,223,41"/>
+</map>

@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TotalCommander",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "TotalCommander::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TotalCommander-9c3d5a7f38dd190be2ae.json",
+					"name" : "TotalCommander",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TotalCommander_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TotalCommander_autogen-65c21ad4a8bf5ef004fe.json",
+					"name" : "TotalCommander_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TotalCommander_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TotalCommander_autogen_timestamp_deps-4277e895d03e9aeda253.json",
+					"name" : "TotalCommander_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/madox/c++/TotalCommander/build",
+		"source" : "/home/madox/c++/TotalCommander"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

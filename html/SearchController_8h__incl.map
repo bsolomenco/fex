@@ -1,0 +1,9 @@
+<map id="controller/SearchController.h" name="controller/SearchController.h">
+<area shape="rect" id="Node000001" title="Wires a FileSearcher and a SearchDialog, relays navigation to MainWindow." alt="" coords="41,5,247,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,80,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,33,72,73,69,68,126,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,79,183,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="147,31,147,65,141,65,141,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="207,79,278,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,29,217,68,214,73,158,33"/>
+</map>

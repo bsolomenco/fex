@@ -1,0 +1,30 @@
+<map id="services/DirectoryComparator.h" name="services/DirectoryComparator.h">
+<area shape="rect" id="Node000001" title="Data types and algorithm for comparing two directory listings." alt="" coords="473,5,701,31"/>
+<area shape="rect" id="Node000002" href="$CompareController_8h.html" title="Orchestrates directory comparison: runs the service, opens the dialog." alt="" coords="218,79,441,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="533,37,372,81,370,76,532,32"/>
+<area shape="rect" id="Node000010" href="$DirectoryComparator_8cpp.html" title=" " alt="" coords="465,79,708,104"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="589,44,589,79,584,79,584,44"/>
+<area shape="rect" id="Node000011" href="$CompareDialog_8h.html" title="Pure&#45;UI dialog that displays pre&#45;computed directory comparison results." alt="" coords="733,79,883,104"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="636,32,773,76,771,81,634,37"/>
+<area shape="rect" id="Node000003" href="$moc__CompareController_8cpp.html" title=" " alt="" coords="5,255,216,309"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,115,143,256,140,252,304,111"/>
+<area shape="rect" id="Node000005" href="$CompareController_8cpp.html" title=" " alt="" coords="428,167,665,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="372,107,518,164,516,169,370,112"/>
+<area shape="rect" id="Node000006" href="$mainwindow_8h.html" title="Top&#45;level application window — layout and signal wiring only." alt="" coords="287,167,403,192"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="337,117,346,166,340,167,331,118"/>
+<area shape="rect" id="Node000004" href="$mocs__compilation_8cpp.html" title=" " alt="" coords="229,357,461,397"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="190,312,299,355,297,360,188,317"/>
+<area shape="rect" id="Node000007" href="$moc__mainwindow_8cpp.html" title=" " alt="" coords="239,255,451,309"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="348,206,348,254,343,254,343,206"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html" title="Application entry point." alt="" coords="475,269,557,295"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="378,197,498,267,495,272,375,201"/>
+<area shape="rect" id="Node000009" href="$mainwindow_8cpp.html" title=" " alt="" coords="581,269,712,295"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="389,194,417,204,570,252,614,267,612,272,569,257,415,209,387,199"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="348,323,348,357,343,357,343,323"/>
+<area shape="poly" id="edge14_Node000011_Node000005" title=" " alt="" coords="760,111,583,169,581,164,759,106"/>
+<area shape="rect" id="Node000012" href="$moc__CompareDialog_8cpp.html" title=" " alt="" coords="689,152,895,207"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="806,118,799,152,794,151,801,117"/>
+<area shape="rect" id="Node000013" href="$CompareDialog_8cpp.html" title=" " alt="" coords="919,167,1086,192"/>
+<area shape="poly" id="edge15_Node000011_Node000013" title=" " alt="" coords="848,107,977,164,975,169,846,112"/>
+<area shape="poly" id="edge13_Node000012_Node000004" title=" " alt="" coords="784,221,762,269,746,292,725,312,680,332,614,348,462,369,461,364,613,343,678,327,723,307,742,289,758,266,779,219"/>
+</map>

@@ -1,0 +1,16 @@
+<map id="controller/CompareController.h" name="controller/CompareController.h">
+<area shape="rect" id="Node000001" title="Orchestrates directory comparison: runs the service, opens the dialog." alt="" coords="71,5,294,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,80,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,33,79,75,76,70,159,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="105,79,183,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="179,32,159,68,154,65,174,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="218,152,289,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="191,30,244,138,239,141,186,32"/>
+<area shape="rect" id="Node000005" href="$DirectoryComparator_8h.html" title="Data types and algorithm for comparing two directory listings." alt="" coords="259,79,487,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="214,28,330,71,328,76,212,33"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="355,106,286,147,284,142,353,102"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="329,152,383,177"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="373,105,365,140,359,138,368,104"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="408,152,488,177"/>
+<area shape="poly" id="edge7_Node000005_Node000007" title=" " alt="" coords="387,102,428,141,424,144,383,106"/>
+</map>

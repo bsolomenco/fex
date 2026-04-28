@@ -1,0 +1,28 @@
+<map id="controller/CompareController.cpp" name="controller/CompareController.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="255,5,492,31"/>
+<area shape="rect" id="Node000002" href="$CompareController_8h.html" title="Orchestrates directory comparison: runs the service, opens the dialog." alt="" coords="143,79,299,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="350,33,259,75,257,70,348,28"/>
+<area shape="rect" id="Node000009" href="$CompareDialog_8h.html" title="Pure&#45;UI dialog that displays pre&#45;computed directory comparison results." alt="" coords="487,79,638,104"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="405,28,520,71,518,76,403,33"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,152,80,177"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,107,85,149,83,144,192,102"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,152,183,177"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="211,106,169,144,165,141,207,102"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="213,225,283,251"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="226,104,246,211,241,212,221,105"/>
+<area shape="rect" id="Node000006" href="$DirectoryComparator_8h.html" title="Data types and algorithm for comparing two directory listings." alt="" coords="259,152,487,177"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="247,102,337,144,335,149,245,106"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="355,180,282,221,279,216,352,175"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="467,225,522,251"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="394,175,465,216,462,221,391,180"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="333,225,413,251"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="376,178,376,212,371,212,371,178"/>
+<area shape="poly" id="edge14_Node000009_Node000006" title=" " alt="" coords="533,107,418,149,416,144,531,102"/>
+<area shape="poly" id="edge13_Node000009_Node000007" title=" " alt="" coords="560,106,508,214,503,212,555,103"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="563,152,637,177"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="571,103,590,139,585,141,566,106"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="661,152,773,177"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="589,102,681,144,679,149,586,106"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="797,152,864,177"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="606,101,784,148,783,154,605,107"/>
+</map>

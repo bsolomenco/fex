@@ -1,0 +1,26 @@
+<map id="build/TotalCommander_autogen/NPUKSKGWT2/moc_CompareController.cpp" name="build/TotalCommander_autogen/NPUKSKGWT2/moc_CompareController.cpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="447,5,657,60"/>
+<area shape="rect" id="Node000002" href="$CompareController_8h.html" title="Orchestrates directory comparison: runs the service, opens the dialog." alt="" coords="103,108,263,148"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="449,63,271,107,270,102,447,57"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="287,115,441,141"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="500,62,400,112,398,107,498,58"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="466,115,638,141"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="555,60,555,101,549,101,549,60"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="663,115,740,141"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="595,58,673,106,670,111,593,62"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="765,115,942,141"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="638,58,804,109,802,114,636,63"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,196,80,221"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="150,150,77,191,74,187,148,146"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="105,196,183,221"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="176,149,158,185,153,182,171,147"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="218,269,289,295"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="194,147,245,256,240,258,189,150"/>
+<area shape="rect" id="Node000006" href="$DirectoryComparator_8h.html" title="Data types and algorithm for comparing two directory listings." alt="" coords="259,196,487,221"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="229,146,334,188,332,193,227,150"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="355,224,286,264,284,260,353,219"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="329,269,383,295"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="373,222,365,257,359,256,368,221"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="408,269,488,295"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="387,219,428,258,424,262,383,223"/>
+</map>

@@ -1,0 +1,20 @@
+{
+	"BUILD_DIR" : "/home/madox/c++/TotalCommander/build/TotalCommander_autogen",
+	"CMAKE_BINARY_DIR" : "/home/madox/c++/TotalCommander/build",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/madox/c++/TotalCommander/build",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/madox/c++/TotalCommander",
+	"CMAKE_SOURCE_DIR" : "/home/madox/c++/TotalCommander",
+	"GENERATOR" : "Unix Makefiles",
+	"INCLUDE_DIR" : "/home/madox/c++/TotalCommander/build/TotalCommander_autogen/include",
+	"INPUTS" : [ "/home/madox/c++/TotalCommander/style.qss" ],
+	"LOCK_FILE" : "/home/madox/c++/TotalCommander/build/CMakeFiles/TotalCommander_autogen.dir/AutoRcc_resources_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "resources" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_resources.cpp",
+	"RCC_EXECUTABLE" : "/home/madox/Qt/6.11.0/gcc_64/libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/madox/c++/TotalCommander/build/CMakeFiles/TotalCommander_autogen.dir/AutoRcc_resources_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/madox/c++/TotalCommander/resources.qrc",
+	"VERBOSITY" : 0
+}

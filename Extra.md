@@ -1,0 +1,1 @@
+Pentru generarea Documentatie am folosit Doxygen.

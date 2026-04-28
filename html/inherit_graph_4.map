@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" title=" " alt="" coords="5,80,80,105"/>
+<area shape="rect" id="Node000001" href="$classCompareController.html" title="Mediates between the UI compare request and the DirectoryComparator service." alt="" coords="142,5,287,31"/>
+<area shape="poly" id="edge4_Node000000_Node000001" title=" " alt="" coords="72,70,127,40,159,28,161,33,129,44,75,75"/>
+<area shape="rect" id="Node000002" href="$classFileOperationController.html" title="Mediates between UI copy requests and the FileOperations service." alt="" coords="128,55,301,80"/>
+<area shape="poly" id="edge5_Node000000_Node000002" title=" " alt="" coords="93,83,128,77,129,83,94,88"/>
+<area shape="rect" id="Node000003" href="$classFileSearcher.html" title="Stateless search service with signal&#45;based result delivery." alt="" coords="163,104,266,129"/>
+<area shape="poly" id="edge6_Node000000_Node000003" title=" " alt="" coords="94,97,163,107,163,112,94,102"/>
+<area shape="rect" id="Node000004" href="$classSearchController.html" title="Creates FileSearcher + SearchDialog and relays their signals." alt="" coords="149,153,280,179"/>
+<area shape="poly" id="edge7_Node000000_Node000004" title=" " alt="" coords="76,110,129,138,164,151,163,156,127,143,74,115"/>
+</map>
