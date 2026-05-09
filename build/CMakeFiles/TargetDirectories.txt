@@ -1,0 +1,9 @@
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/Fex.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/edit_cache.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/rebuild_cache.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/list_install_components.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/install.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/install/local.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/install/strip.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/Fex_autogen_timestamp_deps.dir
+/home/petrera@pms.brasov/Documents/c++/fex/build/CMakeFiles/Fex_autogen.dir

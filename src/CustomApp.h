@@ -4,6 +4,7 @@
 #include "MainWindow.h"
 #include <QFile>
 #include <QTextStream>
+#include <QString>
 
 class CustomApp : public QApplication
 {
@@ -14,7 +15,11 @@ class CustomApp : public QApplication
 
         static CustomApp* instance();
         void applyStyleSheet();
+        void applyStyleSheet(const QString &path);
     
+    private:
+        void setupStyleWatcher();
+        QString getStyleFilePath() const;
     private:
         QString _styleSheetPath();
         static CustomApp* _instance;

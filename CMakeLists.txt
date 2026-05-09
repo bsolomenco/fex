@@ -22,5 +22,5 @@ add_executable(${PROJECT_NAME} ${Src} ${RESOURCES})
 install(TARGETS ${PROJECT_NAME} 
     RUNTIME DESTINATION ${CMAKE_SOURCE_DIR}
 )
-
+target_compile_definitions(Fex PRIVATE SOURCE_DIR="${CMAKE_CURRENT_SOURCE_DIR}")
 target_link_libraries(${PROJECT_NAME} PRIVATE Qt6::Widgets Qt6::Core Qt6::Gui)
