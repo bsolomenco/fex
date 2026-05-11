@@ -1,0 +1,8 @@
+QMainWindow, QWidget {
+    background-color: #c5580b;
+    color: #000000;
+    font-family: "Ubuntu Mono", "Consolas", monospace;
+    font-size: 13px;
+}
+
+

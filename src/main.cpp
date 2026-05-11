@@ -1,8 +1,14 @@
-#include <stdio.h>
+#include "CustomApp.h"
 
 //----------------------------------------------------------------
-int main(){
-    printf("Hello World!\n");
+int main(int argc,char *argv[]){
 
-    return 0;
+    CustomApp app(argc,argv);
+    
+    
+
+    MainWindow window;
+    
+    window.show();
+    return app.exec();
 }
