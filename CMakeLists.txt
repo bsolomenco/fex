@@ -13,7 +13,7 @@ file(GLOB Src src/*)
 
 add_executable(${PROJECT_NAME} ${Src})
 
-install(TARGETS ${PROJECT_NAME} 
+install(TARGETS ${PROJECT_NAME}
     RUNTIME DESTINATION ${CMAKE_SOURCE_DIR}
 )
 

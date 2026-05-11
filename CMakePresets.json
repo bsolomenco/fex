@@ -1,0 +1,37 @@
+{"version": 8,
+"cmakeMinimumRequired": {
+    "major": 3,
+    "minor": 28,
+    "patch": 3
+  },
+
+"configurePresets": [
+    {
+        "name": "64",
+        "displayName": "64bit Configure Preset",
+        "generator": "Ninja",
+        "binaryDir": "${sourceDir}/.build",
+        "cacheVariables": {
+        }
+    }
+],
+
+"buildPresets": [
+        {
+            "name": "64",
+            "displayName": "64bit Build Preset",
+            "configurePreset": "64"
+        }
+    ],
+
+"workflowPresets": [
+        {
+            "name": "64",
+            "displayName": "64bit Workflow Preset",
+            "steps": [
+                {"type":"configure", "name":"64"},
+                {"type":"build", "name":"64"}
+            ]
+        }
+    ]
+}
