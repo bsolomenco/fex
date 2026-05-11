@@ -3,8 +3,8 @@
 #include <QLabel>
 #include <QVBoxLayout>
 
-MainWindow::MainWindow(QWidget* parent)
-    : QMainWindow(parent)
+MainWindow::MainWindow()
+    : QMainWindow(nullptr)
 {
     QWidget* centralWidget = new QWidget(this);
 

@@ -1,9 +1,9 @@
-#include <QApplication>
+#include "App.hpp"
 #include "MainWindow.hpp"
 
 //----------------------------------------------------------------
 int main(int argc,char *argv[]){
-    QApplication app(argc,argv);
+    App app(argc, argv);
 
     MainWindow window;
     window.resize(650, 400);
