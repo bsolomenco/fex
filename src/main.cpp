@@ -1,15 +1,12 @@
 #include <QApplication>
 #include <QLabel>
-#include <QWidget>
 
 //----------------------------------------------------------------
 int main(int argc,char *argv[]){
     QApplication app(argc,argv);
 
     QLabel label("Hello World!");
-
     label.resize(400,200);
-
     label.show();
 
     return app.exec();
