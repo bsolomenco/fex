@@ -1,8 +1,13 @@
-#include <stdio.h>
+#include <QApplication>
+#include <QLabel>
 
 //----------------------------------------------------------------
-int main(){
-    printf("Hello World!\n");
+int main(int argc,char *argv[]){
+    QApplication app(argc,argv);
 
-    return 0;
+    QLabel label("Hello World!");
+    label.resize(400,200);
+    label.show();
+
+    return app.exec();
 }
